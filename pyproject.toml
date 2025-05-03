@@ -1,0 +1,6 @@
+[project]
+name = "ipynbzpy"
+version = "0.1.0"
+description = "Convert a Python notebook file to a Python script compatible with the Zed IDE REPL"
+requires-python = ">=3.9"
+dependencies = []
